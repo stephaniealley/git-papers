@@ -1,6 +1,8 @@
 # OMG
 OMG
 
+Written by et al.
+
 ## Introduction
 Intro text...
 
